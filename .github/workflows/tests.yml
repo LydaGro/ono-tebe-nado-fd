@@ -20,7 +20,7 @@ jobs:
         uses: Yandex-Practicum/test-project-action@v1
         with:
 <<<<<<< HEAD
-          project: '-tebe-nado-fd'
+          project: 'ono-tebe-nado-fd'
 =======
           project: 'ono-tebe-nado-fd'
 >>>>>>> da0323ffb9debcbc7eb9448b46a172c2886aa417

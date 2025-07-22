@@ -1,1 +1,1 @@
-https://github.com/LydaGro/ono-tebe-nado
+https://github.com/LydaGro/ono-tebe-nado-fd
